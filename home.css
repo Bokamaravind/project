@@ -1,0 +1,184 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+body{
+    margin: 0px;
+    box-sizing: border-box;
+ }
+ .container{
+    background-image: url("mountain2.webp");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+ }
+ .menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 20%;
+ }
+ .head{
+    border: dashed 1.5px  rgb(52, 52, 51);
+    color: rgb(25, 20, 73);
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-right: 10px;
+    height: 50px;
+ }
+ .he{
+   color:rgb(15, 62, 11);
+ }
+ span{
+    color: green;
+ }
+ .image{
+   height: 50px;
+   width: 50px;
+   border: dashed 1.5px  rgb(52, 52, 51);
+   padding: 5px;
+   margin-right: 10px;
+ }
+ .buton{
+    border: dashed 2px black;
+    border-radius: 5px;
+ }
+ .contain{
+   display: flex;
+   flex-direction: row;
+    
+ }
+ .head2{
+   color: rgb(25, 20, 73);
+   font-size: 45px;
+   
+ }
+ .para{
+   color: rgb(46, 43, 73);
+   font-size: 40px;
+ }
+ .container2{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   min-width: none;
+ }
+  
+ .box1{
+   display: flex;
+   flex-direction: row;
+   padding: 10px;
+   border-radius: 20px;
+   height: 40px;
+   background-color: #9a9d9d;
+   margin-right: 20px;
+   color:rgb(17, 6, 80); 
+ }
+
+ .box1:hover{
+    background-color: rgb(17, 6, 80);
+    color: white;
+ }
+ .bit{
+  display: flex;
+  flex-direction: row;
+  width: 180px;
+  border-right: solid 2px rgb(25, 20, 73);
+  height: 40px;
+  margin: 10px;
+  padding-right: 20px;
+ }
+ .num{
+  font-size: 40px;
+  color: rgb(25, 20, 73);
+  font-weight: bold;
+   
+
+ }
+ .dis{
+  font-size: 15px;
+  color: rgb(25, 20, 73);
+  font-weight: 500;
+  
+ }
+ .card2{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10px;
+ }
+.safe{
+  font-size: 15px;
+  color: rgb(25, 20, 73);
+  font-weight: bold;
+}
+
+.safe1{
+  font-size: 15px;
+  color: rgb(25, 20, 73);
+  font-weight: bold;
+  margin-bottom: -1px;
+}
+
+.safe-p{
+  color: rgb(46, 43, 73);
+   font-size: 12px;
+   font-weight: 600;
+   margin-top: -10px;
+}
+.safe-d{
+  color:rgb(25, 20, 73);
+   font-size: 12px;
+   font-weight: 600;
+   
+}
+.card3{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+ }
+ .bit1{
+  display: flex;
+  flex-direction: row;
+  
+  width: 220px;
+  padding-right: 10px;
+  margin-right: 40px;
+ }
+ .num1{
+  font-size: 30px;
+  color: rgb(25, 20, 73);
+  font-weight: bold;
+   
+
+ }
+ .dis1{
+  font-size: 12px;
+  color: rgb(25, 20, 73);
+  font-weight: 500;
+ }
+ .boxe{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  border: solid 1.5px rgb(251, 251, 248);
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 10px;
+ }
+ .bo{
+  margin-right: 20px;
+ }
+ .bo1{
+  margin-right: 20px;
+  text-align: center;
+ }
+ .bi{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-height: 60px;
+  min-width: none;
+  margin-top: -20px;
+ }
